@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+PERSONAL STATEMENT
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+A competent and highly motivated AI Algorithm Engineer with comprehensive knowledge of new AI technologies, algorithms and products, with a passion for utilizing cutting-edge technologies to drive innovation and solve complex problems. Expert in AI algorithm design, deep learning, machine learning, computer vision and embedded hardware development.
 
-Work experience
+QUALIFICATION
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* MS (Electronics and Communication Engineering), Shanghai Jiao Tong University (SJTU), Shanghai, China,                                2018 – 2020
+  * *Thesis: Improved Wi-Fi indoor localization based on signal quality parameters and RSSI smoothing algorithm
+* B.E (Electrical Electronics Engineering), Sukkur IBA University (IBA), Sindh, Pakistan,                                               2013 – 2017
+  * *Thesis: Green wireless capsule endoscopy battery friendly algorithm based on digital signal processing
+
+WORK EXPERIENCE
+======
+* AI Algorithm Engineer (13th April 2022 – Present)
+  * R&D, Shanghai Xiding Industry Co., Ltd, Shanghai, China
+  * Responsibilities: Development of deep learning algorithms related to computer vision for object detection and action recognition and implement algorithms on Android SDK of AI development boards then test the performance of the algorithm on the specific development board.
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
