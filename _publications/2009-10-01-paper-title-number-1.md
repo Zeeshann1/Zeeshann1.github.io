@@ -6,7 +6,7 @@ excerpt: 'This paper is about the improved Wi-Fi indoor localization based on si
 date: 10 November 2021
 venue: '2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606145&isnumber=9605803'
-Citation: 'Z. Hyder, D. He, D. Li and W. Yu, "Improved Wi-Fi Indoor Localization Based on Signal Quality Parameters and RSSI Smoothing Algorithm," 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), Negambo, Sri Lanka, 2021, pp. 140-144, doi: 10.1109/ICIAfS52090.2021.9606145'
+citation: 'Z. Hyder, D. He, D. Li and W. Yu, "Improved Wi-Fi Indoor Localization Based on Signal Quality Parameters and RSSI Smoothing Algorithm," 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS), Negambo, Sri Lanka, 2021, pp. 140-144, doi: 10.1109/ICIAfS52090.2021.9606145'
 ---
 This paper is about the improved Wi-Fi indoor localization based on signal quality parameters and RSSI smoothing algorithm.
 
