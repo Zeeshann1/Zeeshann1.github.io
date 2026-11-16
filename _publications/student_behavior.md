@@ -1,12 +1,12 @@
 ---
-title: "Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset."
+title: "Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset"
 collection: publications
 permalink: /publication/student_behavior.md
 excerpt: 'This paper is about Student Behavior Monitoring in Experimental Exams.'
 date: 14 January 2025
 venue: '2024 International Conference on Artificial Intelligence and Future Education (AIFE ’24)'
 paperurl: 'https://doi.org/10.1145/3708394.3708417'
-citation: 'Sun Zhendan, Zeeshan Hyder, and Qingfeng Wang. “Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset.” In Proceedings of the 2024 International Conference on Artificial Intelligence and Future Education (AIFE ’24), pp. 126–134. ACM, 2025. https://doi.org/10.1145/3708394.3708417'
+citation: 'Sun Zhendan, Zeeshan Hyder, and Qingfeng Wang. “Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset.” In Proceedings of the 2024 International Conference on Artificial Intelligence and Future Education (AIFE ’24), pp. 126–134. ACM, 2025.'
 ---
 This paper is about Student Behavior Monitoring in Experimental Exams.
 
