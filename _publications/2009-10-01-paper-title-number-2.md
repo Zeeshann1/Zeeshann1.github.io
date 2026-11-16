@@ -1,7 +1,7 @@
 ---
 title: "Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset"
 collection: publications
-permalink: /publication/student_behavior
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'This paper is about Student Behavior Monitoring in Experimental Exams.'
 date: 14 January 2025
 venue: '2024 International Conference on Artificial Intelligence and Future Education (AIFE ’24)'
