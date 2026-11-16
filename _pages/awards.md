@@ -16,3 +16,5 @@ Awarded the Chinese Government Scholarship to support postgraduate studies in Ch
 
 ### Sindh Endowment Scholarship (2014)
 **Sukkur IBA University**
+
+Received the Sindh Endowment Scholarship to support higher education.
