@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-AI/ML Engineer | Computer Vision | Multimodal AI
-======
-I am an AI/ML Engineer with over four years of professional experience designing, developing, and deploying deep learning solutions for real-world applications. My core expertise lies in **Computer Vision**, with hands-on experience in object detection, image segmentation, industrial defect inspection, image matting, OCR, and visual behavior recognition.
+# AI/ML Engineer
+I am an AI/ML Engineer with over four years of professional experience designing, developing, and deploying deep learning solutions for real-world applications. My core expertise lies in Computer Vision, with hands-on experience in object detection, image segmentation, industrial defect inspection, image matting, OCR, and visual behavior recognition.
 
 I work across the entire machine learning lifecycle, from dataset development and annotation to model training, evaluation, error analysis, optimization, and production deployment. I also have experience deploying AI models on edge devices and developing efficient, scalable solutions for practical applications.
 
