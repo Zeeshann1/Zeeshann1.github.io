@@ -142,12 +142,11 @@ April 2021 – October 2021
 - Monitored application performance and resource utilization, observing operating temperatures of approximately 30–32°C on the RK3588S-PC compared with 50–70°C on the RK3399PRO under the tested conditions.
 - Demonstrated improved thermal stability and smoother high-resolution video processing on the RK3588S-PC.
 
-## PUBLICATIONS
-
-1. Sun Zhendan, **Zeeshan Hyder**, and Qingfeng Wang. "Student Behavior Monitoring in Experimental Exams: Anti-Exam Model and STEAM-Exam Dataset." In *Proceedings of the 2024 International Conference on Artificial Intelligence and Future Education (AIFE '24)*, pp. 126–134. ACM, 2025. [https://doi.org/10.1145/3708394.3708417](https://doi.org/10.1145/3708394.3708417)
-
-2. **Zeeshan Hyder**, Di He, Dongying Li, and Wenxian Yu. "Improved Wi-Fi Indoor Localization Based on Signal Quality Parameters and RSSI Smoothing Algorithm." In *Proceedings of the 2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)*, pp. 140–144. IEEE, 2021. [https://doi.org/10.1109/ICIAfS52090.2021.9606145](https://doi.org/10.1109/ICIAfS52090.2021.9606145)
-
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 ## HONORS & AWARDS
 
 - **Best Paper Award (2020)** — IEEE CAS Shanghai and Shikoku Chapters Joint Workshop on Circuits and Systems (SSJW 2020).
@@ -166,9 +165,5 @@ Algorithm Manager (R&D)
 Shanghai Xiding Intelligent Technology Co., Ltd., China  
 Email: [eli.wang@xiding.com.cn](mailto:eli.wang@xiding.com.cn)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
