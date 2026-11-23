@@ -52,7 +52,7 @@ Thesis: *Green Wireless Capsule Endoscopy Battery-Friendly Algorithm Based on Di
 
 ### Software Engineer (AI & ML)
 **Apple Inc. (Contractor via Metron HK)** | Shanghai, China  
-April 2025 – September 2026
+April 2025 
 
 - Developed Computer Vision pipelines for industrial defect detection, localization, segmentation, and anomaly heatmap generation using YOLO, Detectron2, SAM3, and DINOv3.
 - Implemented text-prompted automatic annotation workflows using SAM 3 to accelerate dataset labeling and improve annotation efficiency.
@@ -87,8 +87,6 @@ April 2021 – October 2021
 ## SELECTED TECHNICAL PROJECTS
 
 ### 1. Student Behavior Monitoring in Experimental Exams — Anti-Exam Model and STEAM-Exam Dataset
-
-**Research Publication | AIFE '24, ACM, 2025**
 
 - Developed the Anti-Exam model and contributed to the STEAM-Exam dataset for automated student behavior recognition during junior high school physics, chemistry, and biology practical examinations.
 - Integrated MODNet-based portrait matting with YOLOv9 object detection using image inputs from a three-camera AI-assisted scoring device to address occlusion challenges and support suspicious behavior detection.
